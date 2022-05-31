@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://example.com"/>
+    <title>API on Eggsample Status</title>
+    <link>https://example.com/affected/api/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2017-12-17T16:24:00+00:00</lastBuildDate>
+    <updated>2017-12-17T16:24:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://example.com/affected/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] Issues Sending DMs</title>
+        <link>https://example.com/issues/2018-01-17-sending-dms-impacted/</link>
+        <pubDate>Sun, 17 Dec 2017 16:24:00 +0000</pubDate>
+        <guid>https://example.com/issues/2018-01-17-sending-dms-impacted/</guid>
+        <category>2017-12-17 16:58:00</category>
+        <description>Update - This incident has been resolved.
+Investigating - We&amp;rsquo;re aware of an issue affecting sending DMs and viewing online friends. We&amp;rsquo;re online and working on a resolution.</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Update&lt;/em&gt; - This incident has been resolved.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - We&amp;rsquo;re aware of an issue affecting sending DMs and viewing online friends. We&amp;rsquo;re online and working on a resolution.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
