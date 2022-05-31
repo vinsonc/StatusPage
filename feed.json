@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "StatusPageHub",
+    "description": "",
+    "home_page_url": "https://vinsonc.github.io/StatusPage",
+    "feed_url": "https://vinsonc.github.io/StatusPage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charly Vinson"
+    },
+    "items": [
+    ]
+}
